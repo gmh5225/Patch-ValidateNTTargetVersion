@@ -7,4 +7,4 @@ The "ValidateNTTargetVersion" task could not be loaded from the assembly C:\Prog
 ```
 
 ## Fix
-Replace file "C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Common.targets" to [WindowsDriver.Common.targets](https://github.com/gmh5225/Patch-ValidateNTTargetVersion/blob/main/WindowsDriver.Common.targets).
+Replace file ``"C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.Common.targets"`` to [WindowsDriver.Common.targets](https://github.com/gmh5225/Patch-ValidateNTTargetVersion/blob/main/WindowsDriver.Common.targets).
